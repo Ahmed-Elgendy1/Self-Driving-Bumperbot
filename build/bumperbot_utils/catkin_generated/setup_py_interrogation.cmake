@@ -1,0 +1,7 @@
+set(bumperbot_utils_SETUP_PY_SETUP_MODULE "distutils.core")
+set(bumperbot_utils_SETUP_PY_VERSION "0.0.0")
+set(bumperbot_utils_SETUP_PY_SCRIPTS "")
+set(bumperbot_utils_SETUP_PY_PACKAGES "bumperbot_utils")
+set(bumperbot_utils_SETUP_PY_PACKAGE_DIRS "src/bumperbot_utils")
+set(bumperbot_utils_SETUP_PY_MODULES "")
+set(bumperbot_utils_SETUP_PY_MODULE_DIRS "")

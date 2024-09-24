@@ -1,0 +1,15 @@
+teleop:
+  move:
+    type: topic
+    message_type: geometry_msgs/Twist
+    topic_name: bumperbot_controller/cmd_vel
+
+    # this param used to adjust which buttons you want to use in the controller
+    axis_mappings:
+      - axis: 1
+        target: linear.x
+        scale: 0.5
+      # lw controller ps4 htb2a axis 3
+      - axis: 0
+        target: angular.z
+        scale: 1.5

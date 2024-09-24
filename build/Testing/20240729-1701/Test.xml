@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240729-1701-Experimental"
+	Name="ahmed-IdeaPad-5-15ITL05"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="ahmed-IdeaPad-5-15ITL05"
+	OSRelease="5.15.0-117-generic"
+	OSVersion="#127~20.04.1-Ubuntu SMP Thu Jul 11 15:36:12 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="140"
+	ProcessorCacheSize="12288"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15773"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2515.41"
+	>
+	<Testing>
+		<StartDateTime>Jul 29 20:01 EEST</StartDateTime>
+		<StartTestTime>1722272496</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 29 20:01 EEST</EndDateTime>
+		<EndTestTime>1722272496</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
